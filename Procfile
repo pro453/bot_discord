@@ -1,1 +1,1 @@
-python b.py 
+web: python b.py
